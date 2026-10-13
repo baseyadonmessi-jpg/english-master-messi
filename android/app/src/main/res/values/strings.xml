@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">English Master Messi</string>
+    <string name="title_activity_main">English Master Messi</string>
+    <string name="package_name">com.englishmastermessi.app</string>
+    <string name="custom_url_scheme">com.englishmastermessi.app</string>
+</resources>
